@@ -14,9 +14,6 @@ Googole Play下载
 
 目前只支持Android！
 
-#### 捐赠Tom，您的支持将使Tom做得更好！
-<img src="http://xinhuo.wpwet.com/jz.jpg" height="100" width="100">
-
 ### 请理性上网
 ### 免责声明:
 
@@ -25,4 +22,8 @@ Googole Play下载
 严禁一切违反中国及服务器所在国法律的行为。
 
 使用本软件将被视为对本声明全部内容的认可。
+
+
+#### 捐赠Tom，您的支持将使Tom做得更好！
+<img src="http://xinhuo.wpwet.com/jz.jpg" height="300" width="200">
 
