@@ -25,5 +25,5 @@ Googole Play下载
 
 
 #### 捐赠Tom，您的支持将使Tom做得更好！
-<img src="http://xinhuo.wpwet.com/jz.jpg" height="200" width="300">
+<img src="http://xinhuo.wpwet.com/jz.jpg" height="300" width="400">
 
