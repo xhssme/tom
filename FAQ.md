@@ -13,6 +13,10 @@ Googole Play下载
 [无墙下载地址](http://tomvpn.xhss.me "无墙下载地址")（仅提供给无法使用Google Play的用户）
 
 目前只支持Android！
+
+#### 捐赠Tom
+<img src="http://xinhuo.wpwet.com/jz.jpg">
+
 ### 请理性上网
 ### 免责声明:
 
