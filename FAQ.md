@@ -15,7 +15,7 @@ Googole Play下载
 目前只支持Android！
 
 #### 捐赠Tom
-<img src="http://xinhuo.wpwet.com/jz.jpg">
+<img src="http://xinhuo.wpwet.com/jz.jpg" height="60" width="60">
 
 ### 请理性上网
 ### 免责声明:
