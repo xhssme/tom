@@ -28,8 +28,10 @@ Googole Play下载
 <img src="http://xinhuo.wpwet.com/jz.jpg" height="330" width="250">
 
 感谢一下朋友的捐赠：
-| Name | Academy | 
-| - | :-: | -: | 
-| 支付宝 189******96（云墨黑） | 捐赠10元|
-| Hermione Granger | Gryffindor | 
-| Draco Malfoy | Slytherin | 
+
+| 项目        | 价格   |  数量  |
+| --------   | -----:  | :----:  |
+| 支付宝 189******96（云墨黑）     | 捐赠10元 |   5     |
+| 手机        |   \$12   |   12   |
+| 管线        |    \$1    |  234  |
+
