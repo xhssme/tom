@@ -27,7 +27,7 @@ Googole Play下载
 #### 捐助Tom，您的支持将使Tom做得更好！
 <img src="http://xinhuo.wpwet.com/jz.jpg" height="330" width="250">
 
-感谢一下朋友的捐助：
+感谢以下朋友的捐助：
 
 | 昵称        | 捐助   |  时间  |
 | --------   | -----:  | :----:  |
