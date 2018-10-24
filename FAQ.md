@@ -27,3 +27,9 @@ Googole Play下载
 #### 捐赠Tom，您的支持将使Tom做得更好！
 <img src="http://xinhuo.wpwet.com/jz.jpg" height="330" width="250">
 
+感谢一下朋友的捐赠：
+| Name | Academy | 
+| - | :-: | -: | 
+| 支付宝 189******96（云墨黑） | 捐赠10元|
+| Hermione Granger | Gryffindor | 
+| Draco Malfoy | Slytherin | 
