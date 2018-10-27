@@ -25,13 +25,5 @@ Googole Play下载
 
 使用本软件将被视为对本声明全部内容的认可。
 
-
 #### 捐助Tom，您的支持将使Tom做得更好！
-<img src="http://xinhuo.wpwet.com/jz.jpg" height="330" width="250">
-
-感谢以下朋友的捐助：
-
-| 昵称        | 捐助   |  时间  |
-| --------   | -----:  | :----:  |
-| 支付宝 189******96（云墨黑）     | ￥10 | 2018-10-22 08:39 |
-
+[捐助tom](https://github.com/xhssme/tom/blob/master/a.md "捐助")
