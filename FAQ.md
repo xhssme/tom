@@ -15,7 +15,7 @@ Googole Play下载
 [无墙下载地址](https://github.com/xhssme/tom/raw/master/tomvpn1.3.4.apk "无墙下载地址")（仅提供给无法使用Google Play的用户）
 
 目前只支持Android！
-
+-------------------------------------
 ### 请理性上网
 ### 免责声明:
 
@@ -25,5 +25,6 @@ Googole Play下载
 
 使用本软件将被视为对本声明全部内容的认可。
 
+--------------------------------------
 #### 捐助Tom，您的支持将使Tom做得更好！
 [捐助tom](https://github.com/xhssme/tom/blob/master/a.md "捐助")
