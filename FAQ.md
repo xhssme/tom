@@ -37,4 +37,4 @@ Googole Play下载
 
 --------------------------------------
 #### 捐助Tom，您的支持将使Tom做得更好！
-[捐助tom](https://github.com/xhssme/tom/blob/master/a.md "捐助")
+[捐助tom请点击这里](https://github.com/xhssme/tom/blob/master/a.md "捐助")
