@@ -2,6 +2,14 @@
 
 ##### Tom 承诺永久免费，请各位朋友在使用时点击一下广告(1.3.7版本后可获得流量奖励，每天最多两次)，浏览广告网站3-5秒即可，广告收益将帮助Tom采购更多、更稳定、更快速的翻墙服务器供大家使用。
 
+Googole Play下载
+
+<a href="https://play.google.com/store/apps/details?id=me.xhss.tomvpn" rel="nofollow"><img src="https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67" height="60" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" style="max-width:100%;"></a>
+
+[无墙下载地址](https://github.com/xhssme/tom/raw/master/tomvpn1.3.7.apk "无墙下载地址")（仅提供给无法使用Google Play的用户）
+
+目前只支持Android！近期发现有用户使用本软件的破解版，请大家注意本软件的发行渠道只有Google Play商店和GitHub（域名是https://github.com/ 开头的），其他途径下载的本软件可能被人修改过，作者不能保证其安全性。作者建议您卸载从其他途径下载的TomV、P、N，重新从Google Play或者上面的github的地址下载并使用。
+
 #### 请及时升级至最新版本，最新版每月初自动重置流量，旧版本不能重置流量。并且旧版本(1.3.4及以前版本)将在2018-12-01停止使用。
 
 **关于流量异常的问题：这是由于软件没有成功获取到你的唯一识别码，导致你和其他一样没有唯一识别码的用户共用了流量。原因有可能是你没有允许本软件获取存储空间的权限，所以一定允许储存权限。处理办法请先清空本软件的全部数据或者卸载重装，然后允许获取存储空间的权限（允许权限最关键）。获取存储空间的权限只是为了写入闪退和错误日志，不会有任何涉及隐私的行为，若您介意，请卸载。
@@ -17,14 +25,6 @@
 #### *警告！有几台服务器因为有人用bt下载国外受版权的资源而被封停了，再次提醒各位，禁止使用本软件行进BT&磁力/迅雷等p2p协议下载。对于某些设备通过系统漏洞（或者说破解版）超额使用的，作者定期做封禁设备处理。
 
 #### * 注意：每台设备每月可以使用10GB流量(1.3.7版本后可以撸更多流量)，超过10GB将停止本月该设备的使用，只能等待下月重置流量后方可使用。请关闭google play 自动更新应用功能，减少流量消耗。对于大部分人来说，一个月10G流量是足够翻墙需求的。若您使用量比较大，每个月10G流量都不够用，作者建议您再配合其他V.P.N一起使用。
-
-Googole Play下载
-
-<a href="https://play.google.com/store/apps/details?id=me.xhss.tomvpn" rel="nofollow"><img src="https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67" height="60" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" style="max-width:100%;"></a>
-
-[无墙下载地址](https://github.com/xhssme/tom/raw/master/tomvpn1.3.7.apk "无墙下载地址")（仅提供给无法使用Google Play的用户）
-
-目前只支持Android！
 -------------------------------------
 ### 请理性上网,严禁分裂中国破坏和谐统一、散布谣言&迷信&反人类、暴力凶杀&儿童色情、暗网等违法行为，欢迎对恶意网址举报，尽所能禁止服务器访问。
 ### 免责声明:
