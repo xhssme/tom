@@ -8,7 +8,7 @@ Googole Play下载
 
 [无墙下载地址](https://github.com/xhssme/tom/raw/master/tomvpn1.3.7.apk "无墙下载地址")（仅提供给无法使用Google Play的用户）
 
-> 目前只支持Android！近期发现有用户使用本软件的破解版，请大家注意本软件的发行渠道只有Google Play商店和GitHub（域名是包含https://github.com/xhssme/tom/  的），其他途径下载的本软件可能被人修改过，作者不能保证其安全性。作者建议您卸载从其他途径下载的TomV、P、N，重新从Google Play或者上面的github的地址下载并使用。
+> 目前只支持Android！请大家注意本软件的发行渠道只有Google Play商店和GitHub（域名是包含https://github.com/xhssme/tom/  的），其他途径下载的本软件可能被人修改过，作者不能保证其安全性。作者建议您卸载从其他途径下载的TomV、P、N，重新从Google Play或者上面的github的地址下载并使用。
 ------
 
 #### 请及时升级至最新版本，最新版每月初自动重置流量，旧版本不能重置流量。并且旧版本(1.3.4及以前版本)将在2018-12-01停止使用。
