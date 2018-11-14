@@ -1,9 +1,9 @@
 #### Tom通过以下方式接受捐助，您的支持将使Tom做得更好！
 <img src="http://xinhuo.wpwet.com/jz.jpg" height="330" width="250"><img src="http://xhss.me/wx.png" height="330" width="330">
 
-<a href="https://paypal.me/pengbo2018" rel="nofollow"><img src="https://github.com/xhssme/tom/blob/master/paypal.png" height="60"></a>
-<a href="https://github.com/xhssme/tom/blob/master/btc.jpg" rel="nofollow"><img src="https://github.com/xhssme/tom/blob/master/btc.jpg" height="60"></a>
-<a href="https://github.com/xhssme/tom/blob/master/eth.jpg" rel="nofollow"><img src="https://github.com/xhssme/tom/blob/master/eth.jpg" height="60"></a>
+<a href="https://paypal.me/pengbo2018"><img src="https://github.com/xhssme/tom/blob/master/paypal.png" height="60"></a>
+<a href="https://github.com/xhssme/tom/blob/master/btc.jpg"><img src="https://github.com/xhssme/tom/blob/master/btc.jpg" height="60"></a>
+<a href="https://github.com/xhssme/tom/blob/master/eth.jpg"><img src="https://github.com/xhssme/tom/blob/master/eth.jpg" height="60"></a>
 
 感谢以下朋友的捐助：
 
