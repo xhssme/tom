@@ -1,6 +1,8 @@
 #### 捐助Tom，您的支持将使Tom做得更好！
 <img src="http://xinhuo.wpwet.com/jz.jpg" height="330" width="250"><img src="http://xhss.me/wx.png" height="330" width="330">
 
+![paypal](https://github.com/xhssme/tom/blob/master/paypal.png)
+
 感谢以下朋友的捐助：
 
 | 昵称        | 捐助   |  时间  |
