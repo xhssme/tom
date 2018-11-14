@@ -3,6 +3,8 @@
 
 <a href="https://paypal.me/pengbo2018" rel="nofollow"><img src="https://github.com/xhssme/tom/blob/master/paypal.png" height="60" data-canonical-src="https://github.com/xhssme/tom/blob/master/paypal.png" style="max-width:100%;"></a>
 
+<a href="https://github.com/xhssme/tom/blob/master/btc.jpg" rel="nofollow"><img src="https://github.com/xhssme/tom/blob/master/btc.jpg" height="60" data-canonical-src="https://github.com/xhssme/tom/blob/master/btc.jpg" style="max-width:100%;"></a>
+
 感谢以下朋友的捐助：
 
 | 昵称        | 捐助   |  时间  |
