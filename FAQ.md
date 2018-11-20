@@ -54,3 +54,13 @@ Googole Play下载
 严禁一切违反中国及服务器所在国法律的行为。
 
 使用本软件将被视为对本声明全部内容的认可。
+
+---------------------------------------
+Donate
+If you like Tom and want to support the developer
+
+###BTC：3QKFBuvRPzreSSykyVfCpWiMJEh1KX6boF
+
+###ETH：0x61ebddcc34fe1957d2895ad5cc6ab28f6655032a
+
+###LTC：LN3xmJjgyNeKTi3hzasHWkJfZVWLQbCXuk
