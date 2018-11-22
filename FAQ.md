@@ -6,7 +6,7 @@ Googole Play下载
 
 <a href="https://play.google.com/store/apps/details?id=me.xhss.tomvpn" rel="nofollow"><img src="https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67" height="60" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" style="max-width:100%;"></a>
 
-[官方下载地址](https://github.com/xhssme/tom/raw/master/tomvpn1.3.7.apk "下载地址")（仅提供给无法使用Google Play的用户）
+[官方下载地址](https://github.com/xhssme/tom/raw/master/tomvpn1.4.0.apk "下载地址")（仅提供给无法使用Google Play的用户）
 
 > 目前只支持Android！请大家注意本软件的发行渠道只有Google Play商店和官方下载（下载地址域名是包含https://github.com/xhssme/tom/  的），其他途径下载的本软件可能被人修改过，作者不能保证其安全性。作者建议您卸载从其他途径下载的TomV、P、N，重新从Google Play或者上面的github的地址下载并使用。
 ------
@@ -35,10 +35,10 @@ Googole Play下载
     
 7、无法打开谷歌商店、谷歌商店显示 从服务器检索信息时出错 等等...
 > 请尝试在手机设置的应用程序中找到Google Play 服务的应用信息，管理空间，然后清除所有数据，再打开商店试试；又或者在“账户和同步”里将已有的谷歌账户删除， 然后重新添加；
-以上方式都试过后还是无法解决的话，那就是作者的锅了，作者正在解决这个问题，后续的版本会修复。
+更新至最新版1.4.0再试试。
 
 8、instagram 只加载动态，不加载图片（刷不出图片）
-> 这个得看情况，有些节点网络好的时候时可以刷出图片的，作者尽量在后续的版本中处理下这个问题。
+> 最新版1.4.0已修复。
 -------------------------------------    
 
 > #### *警告！禁止使用本软件行进BT&磁力/迅雷等p2p协议下载(有几台服务器因为有人用bt下载国外受版权保护的资源而被封停了)。对于某些设备通过系统漏洞（或者说破解版）超额使用的，作者定期做封禁设备处理。
