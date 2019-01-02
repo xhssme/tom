@@ -6,11 +6,11 @@ Googole Play下载
 
 <a href="https://play.google.com/store/apps/details?id=me.xhss.tomvpn" rel="nofollow"><img src="https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67" height="60" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" style="max-width:100%;"></a>
 
-[官方最新版1.4.1下载地址](https://github.com/xhssme/tom/raw/master/tomvpn1.4.1.apk "下载地址")（仅提供给无法使用Google Play的用户）
+[最新版1.4.2下载地址](https://github.com/xhssme/tom/releases/download/v1.4.2/tomvpn1.4.2.apk "下载地址")（仅提供给无法使用Google Play的用户）
 
-[旧版1.4.0下载地址](https://github.com/xhssme/tom/raw/master/tomvpn1.4.0.apk "下载地址")（最新版无法使用的话，请下载旧版试试）
+[旧版1.4.1下载地址](https://github.com/xhssme/tom/raw/master/tomvpn1.4.1.apk "下载地址")（最新版无法使用的话，请下载旧版试试）
 
-> 目前只支持Android！请大家注意本软件的发行渠道只有Google Play商店和官方下载（下载地址域名是包含https://github.com/xhssme/tom/  的），其他途径下载的本软件可能被人修改过，作者不能保证其安全性。作者建议您卸载从其他途径下载的TomV、P、N，重新从Google Play或者上面的github的地址下载并使用。
+> 目前只支持Android！请大家注意本软件的发行渠道只有Google Play商店和Github下载（下载地址域名是包含https://github.com/xhssme/tom/  的），其他途径下载的本软件可能被人修改过，作者不能保证其安全性。作者建议您卸载从其他途径下载的TomV、P、N，重新从Google Play或者上面的github的地址下载并使用。
 ------------------------------------------------------------------
 
 #### 请及时升级至最新版本，旧版本不能保证正常使用。并且旧版本(1.3.5及以前版本)将在2018-12-01停止使用。
@@ -53,8 +53,6 @@ Googole Play下载
 ### 免责声明:
 
 本应用仅供科研,学习,教育,等一切合法目的使用。
-
-严禁一切违反中国及服务器所在国法律的行为。
 
 使用本软件将被视为对本声明全部内容的认可。
 
