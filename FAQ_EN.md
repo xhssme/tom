@@ -28,7 +28,7 @@ Googole Play download
 
 6、Every time connect one or two minutes, two or three minutes is not ok, dropped the line
 > 1. Please add this software to the whitelist for background operation.(how to operate Google, mobile phone manufacturers are not the same system, the author can not explain.)
-  2. In Settings - battery and performance, there are power saving optimization (battery optimization) options for each application. If you choose not to optimize, you can ensure that you are always in the background.
+> 2. In Settings - battery and performance, there are power saving optimization (battery optimization) options for each application. If you choose not to optimize, you can ensure that you are always in the background.
   
 -------------------------------------    
 
