@@ -1,3 +1,4 @@
+[English FAQ](https://github.com/xhssme/tom/blob/master/FAQ_EN.md)  [简体中文 FAQ](https://github.com/xhssme/tom/blob/master/FAQ.md) 
 
 ### Tom free, fast, a key connection, free access to the Internet, scientific Internet access.
 
