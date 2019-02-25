@@ -1,28 +1,23 @@
-### 突发 2019-02-25:Tom应用服务器出现故障，正在检查修复中，抱歉！
+### 2019-02-25:Tom应用服务器疑是被墙，现已紧急更换服务器，请下载最新版1.4.4可正常使用。[最新版1.4.4下载](https://github.com/xhssme/tom/releases/download/tom/tomvpn1.4.4.apk "下载地址")
 
 [English FAQ](https://github.com/xhssme/tom/blob/master/FAQ_EN.md) [简体中文 FAQ](https://github.com/xhssme/tom/blob/master/FAQ.md) 
 
 ### Tom 免费、快速、一键连接、自由地访问互联网，科学上网。
 
-##### Tom 承诺永久免费，请各位朋友在使用时点击一下广告(1.3.7版本后可获得流量奖励，每天最多两次)，浏览广告网站3-5秒即可，这将帮助Tom为大家提供更好的免费服务。
+##### Tom 承诺永久免费，请各位朋友在使用时点击一下广告(可获得流量奖励，每天最多三次)，浏览广告网站3-5秒即可，这将帮助Tom为大家提供更好的免费服务。
 
 Googole Play下载
 
 <a href="https://play.google.com/store/apps/details?id=me.xhss.tomvpn" rel="nofollow"><img src="https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67" height="60" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" style="max-width:100%;"></a>
 
-[最新版1.4.3下载地址](https://github.com/xhssme/tom/releases/download/1.4.3/tomvpn1.4.3.apk "下载地址")（仅提供给无法使用Google Play的用户）
-
-[旧版1.4.2下载地址](https://github.com/xhssme/tom/releases/download/v1.4.2/tomvpn1.4.2.apk "下载地址")（最新版无法使用的话，请下载旧版试试）
-
-[旧版1.4.1下载地址](https://github.com/xhssme/tom/raw/master/tomvpn1.4.1.apk "下载地址")（最新版无法使用的话，请下载旧版试试）
+[最新版1.4.4](https://github.com/xhssme/tom/releases/download/tom/tomvpn1.4.4.apk "下载地址")（紧急修复了服务器无法连接的问题）
 
 > 目前只支持Android！请大家注意本软件的发行渠道只有Google Play商店和Github下载（下载地址域名是包含https://github.com/xhssme/tom/  的），其他途径下载的本软件可能被人修改过，作者不能保证其安全性。作者建议您卸载从其他途径下载的TomV、P、N，重新从Google Play或者上面的github的地址下载并使用。
 ------------------------------------------------------------------
 
 #### 请及时升级至最新版本，旧版本不能保证正常使用。
 
-
-------
+-------------
 #### 常见问题
 1、为何要获取存储空间的权限?
 > Tom获取存储空间的权限只是为了写入闪退和错误日志，不会有任何涉及隐私的行为，欢迎您随时监督。若您介意，请卸载。
@@ -52,7 +47,7 @@ Googole Play下载
 
 > #### *警告！禁止使用本软件行进BT&磁力/迅雷等p2p协议下载。
 
-> #### * 注意：每台设备每月可以使用12GB流量(1.3.7版本后可以点广告撸更多流量,每天200M)，超过12GB将停止本月该设备的使用，只能等待下月重置流量后方可使用。请关闭google play 自动更新应用功能，减少流量消耗。对于大部分人来说，一个月12G流量是足够翻墙需求的。若您使用量比较大，每个月流量都不够用，作者建议您再配合其他V.P.N一起使用。Tom每月限制流量，也是为了保障本软件的质量，尽可能让大家能够流畅的上网。若无流量限制的话，那必定有人24小时挂机刷流量，这种长期占用带宽的行为将会影响其他用户的上网体验。试想一下，假如你家里的宽带共享给别人用，而别人拿来无节制的迅雷满速下载，那么你上网的速度会快吗？
+> #### * 注意：每台设备每月可以使用12GB流量(1.3.7版本后可以点广告撸更多流量)，超过12GB将停止本月该设备的使用，只能等待下月重置流量后方可使用。请关闭google play 自动更新应用功能，减少流量消耗。对于大部分人来说，一个月12G流量是足够翻墙需求的。若您使用量比较大，每个月流量都不够用，作者建议您再配合其他V.P.N一起使用。Tom每月限制流量，也是为了保障本软件的质量，尽可能让大家能够流畅的上网。若无流量限制的话，那必定有人24小时挂机刷流量，这种长期占用带宽的行为将会影响其他用户的上网体验。试想一下，假如你家里的宽带共享给别人用，而别人拿来无节制的迅雷满速下载，那么你上网的速度会快吗？
 -------------------------------------
 ### 请理性上网，不要做分裂国家破坏和谐统一、散布谣言&迷信&反人类&暴力凶杀&儿童色情&暗网等行为。若您执意要做，那么本软件不适合您，请您自行搭建梯子。
 
@@ -61,14 +56,3 @@ Googole Play下载
 本应用仅供科研,学习,教育,等一切合法目的使用。
 
 使用本软件将被视为对本声明全部内容的认可。
-
----------------------------------------
-Donate
-
-If you like Tom and want to support the developer
-
-### BTC：3QKFBuvRPzreSSykyVfCpWiMJEh1KX6boF
-
-### ETH：0x61ebddcc34fe1957d2895ad5cc6ab28f6655032a
-
-### LTC：LN3xmJjgyNeKTi3hzasHWkJfZVWLQbCXuk
