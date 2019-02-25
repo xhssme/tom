@@ -12,7 +12,7 @@ Googole Play下载
 
 [最新版1.4.4](https://github.com/xhssme/tom/releases/download/tom/tomvpn1.4.4.apk "下载地址")（紧急修复了服务器无法连接的问题）
 
-> 目前只支持Android！请大家注意本软件的发行渠道只有Google Play商店和Github下载（下载地址域名是包含https://github.com/xhssme/tom/  的），其他途径下载的本软件可能被人修改过，作者不能保证其安全性。作者建议您卸载从其他途径下载的TomV、P、N，重新从Google Play或者上面的github的地址下载并使用。
+> 目前只支持Android！请大家注意本软件的发行渠道只有Google Play商店），其他途径下载的本软件可能被人修改过，作者不能保证其安全性。作者建议您卸载从其他途径下载的Tom，重新从Google Play或者上面的github的地址下载并使用。
 ------------------------------------------------------------------
 
 #### 请及时升级至最新版本，旧版本不能保证正常使用。
