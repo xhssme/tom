@@ -1,3 +1,5 @@
+### 突发 2019-02-25:Tom应用服务器出现故障，正在检查修复中，抱歉！
+
 [English FAQ](https://github.com/xhssme/tom/blob/master/FAQ_EN.md) [简体中文 FAQ](https://github.com/xhssme/tom/blob/master/FAQ.md) 
 
 ### Tom 免费、快速、一键连接、自由地访问互联网，科学上网。
