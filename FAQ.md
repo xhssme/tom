@@ -1,3 +1,4 @@
+### 2019-02-28:部分节点在昨晚被墙，陆续更换中...
 ### 2019-02-25:Tom应用服务器疑是被墙，现已紧急更换服务器，请下载最新版1.4.4可正常使用。[最新版1.4.4下载](https://github.com/xhssme/tom/releases/download/tom/tomvpn1.4.4.apk "下载地址")
 
 [English FAQ](https://github.com/xhssme/tom/blob/master/FAQ_EN.md) [简体中文 FAQ](https://github.com/xhssme/tom/blob/master/FAQ.md) 
