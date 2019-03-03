@@ -32,7 +32,9 @@ Googole Play download
 6、Every time connect one or two minutes, two or three minutes is not ok, dropped the line
 > 1. Please add this software to the whitelist for background operation.(how to operate Google, mobile phone manufacturers are not the same system, the author can not explain.)
 > 2. In Settings - battery and performance, there are power saving optimization (battery optimization) options for each application. If you choose not to optimize, you can ensure that you are always in the background.
-  
+
+7、Failed to get node
+> Please update APP version 1.4.5 or later, you can choose the node to update the server.When the node fetch fails, select another node to update the server to fetch the node. If all node update servers are unreachable, please contact the author by email.
 -------------------------------------    
 
 > #### *Warning!Prohibit the use of this software BT& magnetic force/thunderbolt and other p2p protocol download。
