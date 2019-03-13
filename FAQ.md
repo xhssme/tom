@@ -1,6 +1,4 @@
-### 2019-02-25:Tom应用服务器疑是被墙，现已紧急更换服务器，请下载最新版可正常使用。[最新版1.4.5下载](https://github.com/xhssme/tom/releases/download/tom1.4.5/tom1.4.5.apk "下载地址")
-
-[English FAQ](https://github.com/xhssme/tom/blob/master/FAQ_EN.md) [简体中文 FAQ](https://github.com/xhssme/tom/blob/master/FAQ.md) 
+[English FAQ](https://github.com/xhssme/tom/blob/master/FAQ_EN.md) 
 
 ### Tom 免费、快速、一键连接、自由地访问互联网，科学上网。
 
@@ -10,7 +8,9 @@ Googole Play下载
 
 <a href="https://play.google.com/store/apps/details?id=me.xhss.tomvpn" rel="nofollow"><img src="https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67" height="60" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" style="max-width:100%;"></a>
 
-[最新版1.4.5](https://github.com/xhssme/tom/releases/download/tom1.4.5/tom1.4.5.apk "下载地址")（紧急修复了服务器无法连接的问题）
+[最新版1.4.6](https://github.com/xhssme/tom/releases/download/v146/tomvpn1.4.6.apk "下载地址")
+
+[旧版地址](https://github.com/xhssme/tom/releases/ "下载地址")
 
 > 目前只支持Android！请大家注意本软件的发行渠道只有Google Play商店），其他途径下载的本软件可能被人修改过，作者不能保证其安全性。作者建议您卸载从其他途径下载的Tom，重新从Google Play或者上面的github的地址下载并使用。
 ------------------------------------------------------------------
