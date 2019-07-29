@@ -8,7 +8,7 @@ Googole Play download
 
 <a href="https://play.google.com/store/apps/details?id=me.xhss.tomvpn" rel="nofollow"><img src="https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67" height="60" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" style="max-width:100%;"></a>
 
-[Latest version 1.4.8 download address](https://github.com/xhssme/tom/releases/download/v148/tomvpn1.4.8.apk "下载地址")（Only available to users who cannot use Google Play）
+[Latest version 1.4.9 download address](https://github.com/xhssme/tom/releases/download/v1.4.9/tomvpn1.4.9.apk "下载地址")（Only available to users who cannot use Google Play）
 
 [Old version download address](https://github.com/xhssme/tom/releases/ "下载地址")
 
@@ -39,7 +39,7 @@ Googole Play download
 
 > #### *Warning!Prohibit the use of this software BT& magnetic force/thunderbolt and other p2p protocol download。
 
-> #### * Note: each device can use 12GB of data per month (after version 1.3.7, you can click on the AD to roll more data, 200M per day). If the data exceeds 12GB, the use of the device will be stopped this month, and it can only be used after the reset of data next month.Please turn off the auto-update function of Google play to reduce traffic consumption.For most people, 12 gigabytes a month is enough for over the wall.If you use a large amount, the monthly flow is not enough, the author suggests that you use with other V.P.N.Tom monthly limit traffic, but also to ensure the quality of this software, as far as possible so that everyone can be smooth online.If there is no traffic limit, it must be someone 24 hours hang up brush traffic, this kind of long-term bandwidth behavior will affect the Internet experience of other users.Just think, if the broadband in your home is Shared give others to use, and the thunderbolt full speed that other people brings immoderate downloads, so the speed that you get online can be fast?
+> #### * Note: each device can use 12GB of data per month (after version 1.3.7, you can click on the AD to roll more data, 200M per day). If the data exceeds 12GB, the use of the device will be stopped this month, and it can only be used after the reset of data next month.Please turn off the auto-update function of Google play to reduce traffic consumption.
 -------------------------------------
 
 ### disclaimer:
