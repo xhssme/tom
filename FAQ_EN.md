@@ -39,6 +39,9 @@ Googole Play download
 
 7、Failed to get node
 > Please update APP version 1.4.5 or later, you can choose the node to update the server.When the node fetch fails, select another node to update the server to fetch the node. If all node update servers are unreachable, please contact the author by email.
+
+8. The problem of too much advertising
+> I'm sorry, but too much advertising really turns you off. But the operating cost is increasing day by day, and the author has to increase the display frequency of advertisements.
 -------------------------------------    
 
 > #### *Warning!Prohibit the use of this software BT& magnetic force/thunderbolt and other p2p protocol download。
