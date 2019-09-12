@@ -8,13 +8,17 @@ Googole Play download
 
 <a href="https://play.google.com/store/apps/details?id=me.xhss.tomvpn" rel="nofollow"><img src="https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67" height="60" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" style="max-width:100%;"></a>
 
-[Latest version 1.4.9 download address](https://github.com/xhssme/tom/releases/download/v1.4.9/tomvpn1.4.9.apk "下载地址")（Only available to users who cannot use Google Play）
+[Latest version 1.5.0 download address](https://github.com/xhssme/tom/releases/download/v1.5.0/tom_1.5.0.apk "下载地址")（Only available to users who cannot use Google Play）
 
 [Old version download address](https://github.com/xhssme/tom/releases/ "下载地址")
 
 
 > Currently only supports Android!Please note that the distribution channel of this software is only available through Google Play store. This software may have been modified, and the author cannot guarantee its security.The author suggests that you uninstall TomV, P, N downloaded from other sources, and download and use them again from Google Play.
 ------------------------------------------------------------------
+
+#### New changes
+
+> After version 1.5.0, the monthly traffic increased to 20G. After the traffic excess, the user can continue to use, but access to video website /APP is limited.
 
 #### FAQ
 1. Why do you want to obtain the permission of storage space?
@@ -39,7 +43,7 @@ Googole Play download
 
 > #### *Warning!Prohibit the use of this software BT& magnetic force/thunderbolt and other p2p protocol download。
 
-> #### * Note: each device can use 12GB of data per month (after version 1.3.7, you can click on the AD to roll more data, 200M per day). If the data exceeds 12GB, the use of the device will be stopped this month, and it can only be used after the reset of data next month.Please turn off the auto-update function of Google play to reduce traffic consumption.
+> #### * Note: each device can use 20GB of data per month (after version 1.3.7, you can click on the AD to roll more data, 200M per day).Please turn off the auto-update function of Google play to reduce traffic consumption.
 -------------------------------------
 
 ### disclaimer:
