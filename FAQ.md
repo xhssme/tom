@@ -4,18 +4,19 @@
 
 ##### Tom 承诺永久免费，请各位朋友在使用时点击一下广告(可获得流量奖励，每天最多四次)，浏览广告网站3-5秒即可，这将帮助Tom为大家提供更好的免费服务。
 
-Googole Play下载
+Googole Play下载（推荐）
 
 <a href="https://play.google.com/store/apps/details?id=me.xhss.tomvpn" rel="nofollow"><img src="https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67" height="60" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" style="max-width:100%;"></a>
 
-[最新版1.4.9](https://github.com/xhssme/tom/releases/download/v1.4.9/tomvpn1.4.9.apk "下载地址") (仅提供给无法使用Googole Play的用户)
+[最新版1.5.0](https://github.com/xhssme/tom/releases/download/v1.5.0/tom_1.5.0.apk "下载地址") (仅提供给无法使用Googole Play的用户)
 
 [旧版地址](https://github.com/xhssme/tom/releases/ "下载地址")
 
 > 目前只支持Android！请大家注意本软件的发行渠道只有Google Play商店），其他途径下载的本软件可能被人修改过，作者不能保证其安全性。作者建议您卸载从其他途径下载的Tom，重新从Google Play或者上面的github的地址下载并使用。
 ------------------------------------------------------------------
 
-#### 请及时升级至最新版本，旧版本不能保证正常使用。
+#### 新变化
+> 从1.5.0版本后，每月流量提升至20G，流量超额后还可以继续使用，但是限制访问视频网站/APP。
 
 -------------
 #### 常见问题
@@ -37,8 +38,12 @@ Googole Play下载
 
 7、关于闪退
 > 基本都是出现在被修改过的安卓系统上(常见的就是国内的手机厂商定制的ROM)，由于作者精力有限，无法支持所有安卓机型。遇到闪退或无法正常使用的时候，您可以在手机存储中找到/TomVPN/crash/这个路径的文件夹，将crash文件夹里面的最新产生的.log格式的日志文件通过邮件(wwwxhsssme#gmail.com，#自行替换@)发送给作者，作者会尽力分析日志修复闪退等其他错误。
+
+8、关于广告过多的问题
+> 非常抱歉，广告过多确实让您反感。但是运营成本日益增加，作者不得不增加广告的显示频率，望您见谅！
+
 -------------------------------------    
-> #### * 注意：每台设备每月可以使用12GB流量(1.3.7版本后可以点广告撸更多流量)，请关闭google play 自动更新应用功能，减少流量消耗。
+> #### * 注意：每台设备每月可以使用20GB流量(1.5.0版本后流量20G/月，1.3.7版本后可以点广告撸更多流量)，请关闭google play 自动更新应用功能，减少流量消耗。
 -------------------------------------
 ### 请理性上网，不要做分裂国家破坏和谐统一、散布谣言&迷信&反人类&暴力凶杀&儿童色情&暗网等行为。若您执意要做，那么本软件不适合您，请您自行搭建梯子。
 
