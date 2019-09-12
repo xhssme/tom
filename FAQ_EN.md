@@ -13,7 +13,7 @@ Googole Play download
 [Old version download address](https://github.com/xhssme/tom/releases/ "下载地址")
 
 
-> Currently only supports Android!Please note that the distribution channel of this software is only available through Google Play store. This software may have been modified, and the author cannot guarantee its security.The author suggests that you uninstall TomV, P, N downloaded from other sources, and download and use them again from Google Play.
+> Currently only supports Android!Please note that the distribution channel of this software is only available through Google Play store. 
 ------------------------------------------------------------------
 
 #### New changes
