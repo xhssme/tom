@@ -6,7 +6,7 @@ Googole Play下载（推荐）
 
 <a href="https://play.google.com/store/apps/details?id=me.xhss.tomvpn" rel="nofollow"><img src="https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67" height="60" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" style="max-width:100%;"></a>
 
-[最新版1.5.0](https://github.com/xhssme/tom/releases/download/v1.5.0/tom_1.5.0.apk "下载地址") (仅提供给无法使用Googole Play的用户)
+[最新版1.6.0](https://github.com/xhssme/tom/releases/download/Tom1.6.0/tom1.6.0.apk "下载地址") (仅提供给无法使用Googole Play的用户)
 
 [旧版地址](https://github.com/xhssme/tom/releases/ "下载地址")
 
@@ -41,8 +41,6 @@ Googole Play下载（推荐）
 > 非常抱歉，广告过多确实让您反感。但是运营成本日益增加，作者不得不增加广告的显示频率，望您见谅！
 
 -------------------------------------    
-> #### * 注意：每台设备每月可以使用20GB流量(1.5.0版本后流量20G/月，1.3.7版本后可以点广告撸更多流量)，请关闭google play 自动更新应用功能，减少流量消耗。
-------------------------------------
 
 ### 免责声明:
 
