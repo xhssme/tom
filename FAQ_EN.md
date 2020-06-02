@@ -1,4 +1,4 @@
-[简体中文 FAQ](https://github.com/xhssme/tom/blob/master/FAQ.md) 
+* Please upgrade to the latest version v1.6.0, some subscribers of the old version have expired and cannot be used normally.
 
 ### Tom free, fast, a key connection, free access to the Internet, scientific Internet access.
 
