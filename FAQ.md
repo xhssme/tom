@@ -8,6 +8,8 @@ Googole Play下载（推荐）
 
 [最新版1.6.0](https://github.com/xhssme/tom/releases/download/Tom1.6.0/tom1.6.0.apk "下载地址") (仅提供给无法使用Googole Play的用户)
 
+[备用下载](https://download.apkfiles.com/download/601250/tomvpn-1-6-0.apk?632331 "备用下载")
+
 [旧版地址](https://github.com/xhssme/tom/releases/ "下载地址")
 
 > 目前只支持Android！请大家注意本软件的发行渠道只有Google Play商店），其他途径下载的本软件可能被人修改过，作者不能保证其安全性。作者建议您卸载从其他途径下载的Tom，重新从Google Play或者上面的github的地址下载并使用。
