@@ -14,7 +14,7 @@ Googole Play download
 
 [Old version download address](https://github.com/xhssme/tom/releases/ "下载地址")
 
-> Currently only supports Android!Please note that the distribution channel of this software is only available through Google Play store. 
+> Please note that the distribution channel of this software is only available through Google Play store. 
 ------------------------------------------------------------------
 
 #### New changes
@@ -31,21 +31,17 @@ Googole Play download
 
 4、Due to the complex network in different regions, different operators in different regions have different effects to connect the same node. If a node is not available or the network speed is slow, please shut down the VPN, wait for a while, and click on the upper left corner to refresh other nodes and try again.
 
-5、The Internet is slow at night
-> This problem author also cannot solve, all abroad server arrives in the evening (be about 20-01 o 'clock) it is network rush hour.Not only in foreign countries, but also in China. At night, there are more and more people surfing the Internet all over the world.
-
-6、Every time connect one or two minutes, two or three minutes is not ok, dropped the line
-> 1. Please add this software to the whitelist for background operation.(how to operate Google, mobile phone manufacturers are not the same system, the author can not explain.)
+5、Every time connect one or two minutes, two or three minutes is not ok, dropped the line
+> 1. Please add this software to the whitelist for background operation.(how to operate Google)
 > 2. In Settings - battery and performance, there are power saving optimization (battery optimization) options for each application. If you choose not to optimize, you can ensure that you are always in the background.
 
-7、Failed to get node
+6、Failed to get node
 > Please update APP version 1.4.5 or later, you can choose the node to update the server.When the node fetch fails, select another node to update the server to fetch the node. If all node update servers are unreachable, please contact the author by email.
 
-8. The problem of too much advertising
-> I'm sorry, but too much advertising really turns you off. But the operating cost is increasing day by day, and the author has to increase the display frequency of advertisements.
 -------------------------------------    
 
 > #### *Warning!Prohibit the use of this software BT& magnetic force/thunderbolt and other p2p protocol download。
+
 -------------------------------------
 
 ### disclaimer:
