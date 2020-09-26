@@ -10,7 +10,7 @@ Googole Play download
 
 [Latest version 2.0 download address](https://github.com/xhssme/tom/releases/download/v20/tom-v20.apk "下载地址")（Only available to users who cannot use Google Play）
 
-[Alternate download](https://download.apkfiles.com/download/601250/tomvpn-1-6-0.apk?632331 "Alternate download")
+[Alternate download](https://gitlab.com/tomxiaoha/tom/-/raw/master/apk/tom-v20.apk "Alternate download")
 
 [Old version download address](https://github.com/xhssme/tom/releases/ "下载地址")
 
