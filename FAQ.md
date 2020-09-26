@@ -10,7 +10,7 @@ Googole Play下载（推荐）
 
 [最新版2.0](https://github.com/xhssme/tom/releases/download/v20/tom-v20.apk "下载地址") (仅提供给无法使用Googole Play的用户)
 
-[备用下载](https://download.apkfiles.com/download/601250/tomvpn-1-6-0.apk?632331 "备用下载")
+[备用下载](https://gitlab.com/tomxiaoha/tom/-/raw/master/apk/tom-v20.apk "备用下载")
 
 [旧版地址](https://github.com/xhssme/tom/releases/ "下载地址")
 
