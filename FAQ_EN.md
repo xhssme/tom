@@ -14,7 +14,7 @@ Googole Play download
 
 [Old version download address](https://github.com/xhssme/tom/releases/ "下载地址")
 
-> Please note that the distribution channel of this software is only available through Google Play store. 
+> Android 4.4 May not work with the latest version, please use V1.6
 ------------------------------------------------------------------
 
 #### New changes
