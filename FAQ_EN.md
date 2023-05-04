@@ -1,4 +1,4 @@
-* Please upgrade to the latest version v2.1, some subscribers of the old version have expired and cannot be used normally.
+* Please upgrade to the latest version, some subscribers of the old version have expired and cannot be used normally.
 
 ### Tom free, fast, a key connection, free access to the Internet, scientific Internet access.
 
